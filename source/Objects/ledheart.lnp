@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\ledheart" 
+PRINT(".\Listings\ledheart.m51")
